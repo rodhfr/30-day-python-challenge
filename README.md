@@ -4,11 +4,8 @@
 * Day 7 - 12/29/2025
 
 ## Python by projects
-* 30 Days of Python Challenge (Doing ATM ⌛)
-https://github.com/Asabeneh/30-Days-Of-Python
+* [30 Days of Python Challenge](https://github.com/Asabeneh/30-Days-Of-Python) (Doing ATM ⌛🟢)
 
-* Project Based Python
-https://github.com/pytopia/Project-Based-Python
+* [Project Based Python](https://github.com/pytopia/Project-Based-Python)
 
-* Project Based Learning (multiple langs)
-https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
+* [Project Based Learning (multiple langs)](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
