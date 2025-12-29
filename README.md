@@ -1,6 +1,7 @@
 # 30-day-python-challenge
-day 5 - 12/27/2025
-day 6 - 12/28/2025
+* day 5 - 12/27/2025
+* day 6 - 12/28/2025
+* day 7 - 12/29/2025
 
 ## Python by projects
 * 30 days of python
