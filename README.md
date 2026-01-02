@@ -3,6 +3,7 @@
 * Day 6 - 12/28/2025
 * Day 7 - 12/29/2025
 * Day 8 - 01/01/2025
+* Day 9 - 01/01/2025
 
 ## Python by projects
 * [30 Days of Python Challenge](https://github.com/Asabeneh/30-Days-Of-Python) (Doing ATM ⌛🟢)
