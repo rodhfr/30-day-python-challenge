@@ -9,6 +9,10 @@
 ## Python by projects
 * [30 Days of Python Challenge](https://github.com/Asabeneh/30-Days-Of-Python) (Doing ATM ⌛🟢)
 
+* 30 Days of JavaScript
+
+* 30 Days of React
+
 * [Project Based Python](https://github.com/pytopia/Project-Based-Python)
 
 * [Project Based Learning (multiple langs)](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
