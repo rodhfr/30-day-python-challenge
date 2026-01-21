@@ -1,7 +1,7 @@
 # 30-day-python-challenge
 
 | Day    | Date       | Completed |
-|--------|------------|-----------|
+| ------ | ---------- | --------- |
 | Day 1  | 12/27/2025 | ✅        |
 | Day 2  | 12/27/2025 | ✅        |
 | Day 3  | 12/27/2025 | ✅        |
@@ -18,7 +18,7 @@
 | Day 14 | 01/16/2026 | ✅        |
 | Day 15 | 01/16/2026 | ✅        |
 | Day 16 | 01/16/2026 | ✅        |
-| Day 17 | 01/XX/2026 | ☐         |
+| Day 17 | 01/20/2026 | ✅        |
 | Day 18 | 01/XX/2026 | ☐         |
 | Day 19 | 01/XX/2026 | ☐         |
 | Day 20 | 01/XX/2026 | ☐         |
@@ -36,7 +36,7 @@
 ## Python by projects
 
 - [30 Days of Python Challenge](https://github.com/Asabeneh/30-Days-Of-Python)
-(Doing ATM ⌛🟢)
+  (Doing ATM ⌛🟢)
 - 30 Days of JavaScript
 - 30 Days of React
 - [Project Based Python](https://github.com/pytopia/Project-Based-Python)
